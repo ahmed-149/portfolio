@@ -1,10 +1,9 @@
-# import streamlit as st
+import streamlit as st
 import os
 
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(page_title="Mujeeb Ahmed", layout="wide")
 
-# ---------------- CSS (AUTO LIGHT/DARK MODE) ----------------
 st.markdown("""
 <style>
 
